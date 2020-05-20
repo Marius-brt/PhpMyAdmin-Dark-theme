@@ -3,11 +3,11 @@ A simple dark theme for PhpMyAdmin based on [metro](https://github.com/phpmyadmi
 
 ### Home page :
 
-![Screen1](1.png)
+![Screen1](https://github.com/Marius-brt/PhpMyAdmin-Dark-theme/blob/master/1.PNG)
 
 ### Login form :
 
-![Screen2](2.png)
+![Screen2](https://github.com/Marius-brt/PhpMyAdmin-Dark-theme/blob/master/2.PNG)
 
 ## 📩 Installation
 
