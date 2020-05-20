@@ -1,5 +1,5 @@
 # PMA Dark Theme
-A simple dark theme for PhpMyAdmin based on [metro](https://github.com/phpmyadmin/themes/tree/master/metro)
+A simple dark theme for PhpMyAdmin based on [metro](https://github.com/phpmyadmin/themes/tree/master/metro) for version 4.8 and 4.9
 
 ### Home page :
 
