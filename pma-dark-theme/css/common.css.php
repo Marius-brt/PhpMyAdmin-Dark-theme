@@ -473,7 +473,7 @@ input[type=text], input[type=password], input[type=number]
 {
     margin: 6px;
     font-family: <?php echo $GLOBALS['cfg']['FontFamily']; ?>;
-    background-color: #141414;
+    background-color: #222222;
     border: none;
     padding: 4px 10px;
     border-radius: 5px;
