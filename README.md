@@ -16,7 +16,7 @@ A simple dark theme for PhpMyAdmin based on [metro](https://github.com/phpmyadmi
 
 ## 🤔 Support
 
-There are still some graphical bugs. Do not hesitate to report them [here](https://github.com/Marius-brt/PhpMyAdmin-Dark-theme/issues). Also, if you like the project, you can put a star ⭐
+There are still some graphical bugs. Do not hesitate to report them [here](https://github.com/Marius-brt/PhpMyAdmin-Dark-theme/issues). Also, if you like the project, you can put a star ⭐ to the project.
 
 ## 📃 License
 
