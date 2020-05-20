@@ -1866,8 +1866,7 @@ div#profilingchart {
 
 #sectionlinks {
     padding: 16px;
-    background: #f3f3f3;
-    border: 1px solid #aaa;
+    box-shadow: 0 0 8px 2px rgba(0,0,0,.25);
 }
 #sectionlinks a,
 .buttonlinks a,
@@ -1876,18 +1875,19 @@ a.button {
     font-weight: bold;
     line-height: 35px;
     margin-<?php echo $left; ?>: 7px;
-    border: 1px solid #aaa;
-    padding: 5px 10px;
-    color: #111;
+    padding: 10px 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 8px 2px rgba(0,0,0,.25);
+    color: #fff;
     text-decoration: none;
-    background: #ddd;
+    background-color: #141414;
     white-space: nowrap;
 }
 
 #sectionlinks a:hover,
 .buttonlinks a:hover,
 a.button:hover {
-
+    background: #7962f2;
 }
 
 div#sqlquerycontainer {
@@ -1979,9 +1979,8 @@ li#li_mysql_client_version
 
 li#li_create_database
 {
-    background-color: #f6f6f6;
+    box-shadow: 0 0 8px 2px rgba(0,0,0,.25);
     padding: 10px;
-    border: 1px solid <?php echo $GLOBALS['cfg']['BorderColor']; ?>;
     display: block;
     margin-bottom: 20px;
 }
