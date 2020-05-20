@@ -1,0 +1,8 @@
+{
+    "name": "PMA Dark Theme",
+    "version": "1.0.0",
+    "description": "Dark Theme for phpMyAdmin",
+    "author": "Marius Brt",
+    "url": "https://github.com/Marius-brt/PhpMyAdmin-Dark-theme",
+    "supports": ["4.8","4.9"]
+}
