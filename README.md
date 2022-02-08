@@ -11,8 +11,8 @@ A simple dark theme for PhpMyAdmin based on [metro](https://github.com/phpmyadmi
 
 ## 📩 Installation
 
-1. Clone or download the .git
-2. Go to the PhpMyAdmin files (C:\wamp64\apps\phpmyadmin4.8.4 for Wamp) then go to the `themes` folder and add here the `pma-dark-theme` folder of the .git
+1. Clone or download the git
+2. Go to the PhpMyAdmin files (C:\wamp64\apps\phpmyadmin4.8.4 for Wamp) then go to the `themes` folder and add here the `pma-dark-theme` folder of the git
 3. Select the theme on the home page
 
 ## 🤔 Support
